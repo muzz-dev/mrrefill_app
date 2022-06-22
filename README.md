@@ -1,4 +1,4 @@
-# Mobile Application for Employee and User using Flutter.
+# Mobile Application for Employee and Customer using Flutter.
 
 # mrrefill_app
 
